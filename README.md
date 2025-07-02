@@ -4,6 +4,9 @@
 
 Water quality is essential for both environmental sustainability and human health. This project leverages classification algorithms to evaluate and classify water samples into quality categories (e.g., Safe or Unsafe), offering a data-driven approach to water safety analysis.
 
+![image](https://github.com/user-attachments/assets/0a4345c1-e3d9-414a-9445-4af731569fb6)
+
+
 ---
 
 ### 🧠 Objective
