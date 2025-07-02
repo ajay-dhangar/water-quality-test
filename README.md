@@ -1,4 +1,4 @@
-# 🚰 Project-2: Water Quality Test using Classification Algorithms
+# Water Quality Test using Classification Algorithms
 
 ### 📌 Overview
 
